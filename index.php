@@ -127,7 +127,6 @@
   </div>
 
   <p class="p-center">
-    an offline execrcise for PropertyGuru by
-      <a href="http://hamzeen.github.io" target="_blank">hamzeen. h.</a></p>
+    a demo by <a href="http://hamzeen.github.io" target="_blank">hamzeen. h.</a></p>
 </body>
 </html>
